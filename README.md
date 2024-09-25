@@ -1,3 +1,3 @@
 # TCP_Chat
 
-Basic socket/tcp GUI chat room made by twisted Aka Marwan Mostafa
+Basic socket/tcp GUI chat room made by Marwan Mostafa
